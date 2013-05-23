@@ -18,3 +18,12 @@ Aqui encontram-se todos os requisitos direccionados à concepção de formas e cone
 Este ficheiro é especialmente orientado para o grupo do IDE.
 
 
+-> [Tradução/SI](https://github.com/portugol/documents/blob/master/Tradutores/Requesitos%20dos%20Tradutores.doc)
+
+Aqui encontram-se alguns requesitos úteis para Tradução e Sistemas de Informação. Centram-se essencialmente no na disposição
+dos vários idiomas no website e sugere mecanismos de como integrar o código traduzido no IDE após feito o fluxograma.
+
+-> [Todos os Grupos](https://github.com/portugol/documents/tree/master/Parser)
+
+Esta pasta, útil a todos os grupos, contém informações gerais de tudo o que se passa com o Desenvolvimento do Parser e assim como
+alguns exemplos muito especificos que podem ser úteis no desenrolar das tarefas de cada grupo-

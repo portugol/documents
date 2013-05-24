@@ -26,4 +26,12 @@ dos vários idiomas no website e sugere mecanismos de como integrar o código trad
 -> [Todos os Grupos](https://github.com/portugol/documents/tree/master/Parser)
 
 Esta pasta, útil a todos os grupos, contém informações gerais de tudo o que se passa com o Desenvolvimento do Parser e assim como
-alguns exemplos muito especificos que podem ser úteis no desenrolar das tarefas de cada grupo-
+alguns exemplos muito especificos que podem ser úteis no desenrolar das tarefas de cada grupo.
+
+Para os membros deste grupo:
+
+-> [Documento Técnico do Website do Portugol](https://github.com/portugol/si/blob/master/Website/Documentacao/Portugol%20documento%20Tecnico.doc)
+
+Devido à falta da coerência das versão, é preferivel referenciar o link do documento que se encontra na parte de SI.
+Este documento serve para, quem está a trabalhar na documentação de SI, :  Analizar, Compreender e Documentar de forma menos Técnica o trabalho 
+efectuado pelo grupo de Sistemas de Informação  
